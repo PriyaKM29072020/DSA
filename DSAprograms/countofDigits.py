@@ -3,7 +3,7 @@ def countDigits(num):
         return 0
     return 1+countDigits(num//10)
 print(countDigits(123))
-
+# with-out recursion
 # def countDigits(num):
 #     count=0
 #     while(num>0):
