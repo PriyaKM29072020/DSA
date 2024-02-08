@@ -9,5 +9,5 @@ def TOH(N,src,dest,temp):
     TOH(N-1,temp,dest,src)
 
 
-TOH(3,'A','B','C')
+TOH(4,'A','B','C')
 
