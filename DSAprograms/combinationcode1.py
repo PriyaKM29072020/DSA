@@ -38,4 +38,4 @@ def funCombList(n,k):
     fun(1)
     return c
 
-print(funCombList(5,2))   
+print(funCombList(3,2))   
